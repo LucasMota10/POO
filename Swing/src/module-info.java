@@ -4,6 +4,6 @@
 /**
  * 
  */
-module Java_Swing {
+module java_Swing {
 	requires java.desktop;
 }

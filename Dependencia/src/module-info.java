@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Dependencia {
+module Java_Swing {
 }

@@ -1,4 +1,4 @@
-package Projetos;
+package java_Swing;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
